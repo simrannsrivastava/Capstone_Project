@@ -1,0 +1,5 @@
+My idea is to find the various restaurants, cafes, and other places to eat in the city of Vancouver and cluster them based on their 
+locations and ratings. This would target a wide audience, i.e, anyone who may be looking to eat outside based on the ratings of the
+eateries.
+For this problem I will be using mainly the foursquare api and its location data. Along with that I will use the KNN clustering method
+for creating the clusters.
